@@ -1,6 +1,6 @@
 # Matplotlib_Pyber
 	Trend: 
-
+	1. The supply and demand in Urban area are much larger than those for suburban and rural areas. Rides in Urban area tend to be shorter 
 
 
 
