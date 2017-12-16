@@ -2,6 +2,7 @@
 
 
 
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -550,7 +551,7 @@ explode = (0,0,0.1)
 
 plt.pie(driversize, explode=explode, labels=labels, colors=colors,
         autopct="%1.1f%%", shadow=True, startangle=140)
-plt.title('% of Total Rides by City Type',fontsize=14)
+plt.title('% of Total Drivers by City Type',fontsize=14)
 plt.axis('equal')
 plt.show()
 ```
