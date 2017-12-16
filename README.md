@@ -319,7 +319,7 @@ plt.xlim(0, 40)
 plt.ylim(15,45)
 
 plt.title('Pyber Ride Sharing Data (2016)', fontsize=16)
-plt.xlabel('Total Number of Riders (Per City)', fontsize=14)
+plt.xlabel('Total Number of Rides (Per City)', fontsize=14)
 plt.ylabel('Average Fare ($)', fontsize=14)
 
 
@@ -557,6 +557,4 @@ plt.show()
 
 
 ![png](output_24_0.png)
-
-
 
