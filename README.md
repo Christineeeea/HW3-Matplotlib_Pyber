@@ -1,6 +1,13 @@
 # Matplotlib_Pyber
 	Trend: 
-	1. The supply and demand in Urban area are much larger than those for suburban and rural areas. Rides in Urban area tend to be shorter 
+	1. The supply and demand in Urban area are much larger than those for suburban and rural areas. 
+	   Rides in Urban area tend to be shorter than the ones for suburban and rural areas.
+	2. Urban area: 77.9% of drivers take 67.5% of rides for 62% of total fares, 
+	   Suburban area: 19% of drivers take 27.3% of rides for 31.4% of total fares,
+	   Rural area:3.1% of drivers take 5.2% of rides for 6.6% of total fares,
+	   which indicates that the company should control the supply of drivers in urban area, and should recruit more drivers for 	
+	   suburban and rural areas. 
+	3. 
 
 
 
